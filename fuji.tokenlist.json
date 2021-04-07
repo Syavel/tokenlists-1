@@ -1,0 +1,32 @@
+{
+    "name": "Fuji Test Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "keywords": [
+        "elkdex",
+        "fuji"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 43113,
+            "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
+            "decimals": 18,
+            "name": "Elk",
+            "symbol": "ELK",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/bridge-tokens/main/avalanche-tokens/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        }
+    ],
+    "timestamp": "2021-03-05T17:42:00+00:00"
+}
