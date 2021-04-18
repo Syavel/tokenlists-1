@@ -29,6 +29,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+            "decimals": 9,
+            "name": "Spore.Finance",
+            "symbol": "SPORE",
+            "logoURI": "https://assets.coingecko.com/coins/images/14470/small/SPORE.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537",
             "decimals": 9,
             "name": "sled.finance",
